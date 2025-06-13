@@ -1,16 +1,12 @@
-# first_app
+🎲 Dice Roller App
+Welcome to my first Flutter/Dart app!
+This is a simple dice roller that displays a random die face (1–6) each time you press the Roll button. It uses Flutter for the UI and Dart for the logic.
 
-A new Flutter project.
+📱 Features
+Rolls a 6-sided die
 
-## Getting Started
+Displays a matching image for each die face (1–6)
 
-This project is a starting point for a Flutter application.
+Clean and minimal UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Great for learning Flutter basics like setState, Image, and button interaction
